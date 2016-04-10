@@ -2,7 +2,7 @@
   'use strict';
 
   angular
-    .module('thabeatJs')
+    .module('thabeatJS')
     .factory('githubContributor', githubContributor);
 
   /** @ngInject */
